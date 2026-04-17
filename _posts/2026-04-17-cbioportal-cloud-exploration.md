@@ -34,4 +34,4 @@ By hosting cBioPortal in the cloud, the team at Memorial Sloan Kettering can pro
 * **BuiltWith.** (2026). *cbioportal.org Technology Profile*. Retrieved from [https://builtwith.com/cbioportal.org](https://builtwith.com/cbioportal.org)
 * **Cerami, E., Gao, J., Dogrusoz, U., et al.** (2012). The cBio Cancer Genomics Portal: An Open Platform for Exploring Multidimensional Cancer Genomics Data. *Cancer Discovery*, 2(5), 401-405. [https://doi.org/10.1158/2159-8290.CD-12-0095](https://doi.org/10.1158/2159-8290.CD-12-0095)
 * **Gao, J., Aksoy, B. A., Dogrusoz, U., et al.** (2013). Integrative Analysis of Complex Cancer Genomics and Clinical Profiles using the cBioPortal. *Science Signaling*, 6(269), pl1. [https://doi.org/10.1126/scisignal.2004088](https://doi.org/10.1126/scisignal.2004088)
-* **cBioPortal Documentation.** (2024). *Deployment Procedure on AWS*. Retrieved from [https://docs.cbioportal.org/](https://docs.cbioportal.org/)
+* **cBioPortal Documentation.** (2024). Retrieved from [https://docs.cbioportal.org/](https://docs.cbioportal.org/)
