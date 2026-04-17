@@ -8,7 +8,7 @@ My name is Clara, I am from Elche and I love learning new skills. Have a look at
 
 ### Education
 
-- Degree in Medicine at USAL (2021-2018)
+- Degree in Medicine at USAL (2012-2018)
 - Degree in Computer Engineering - Major in Computation at UA (2020 - 2024)
 - Master's Degree in Health Data Science (2025 - present)
 - PhD in Health Sciences - Specialty in Medical Informatics at UA (2023 - present)
